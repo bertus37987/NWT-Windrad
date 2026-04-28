@@ -2,6 +2,7 @@
 ***Hinweis:***
 Disks Enthält die Mittelscheiben
 Holders enthält die Halterungen
+Alle .stl Modelle können in [Tinkercad](https://www.tinkercad.com/) geöffnet werden !
 ![Rotor Blade Halter](Images/Blade_Holder.png)
 ![Obere Scheibe](Images/upper_disk.png)
 ![Untere](Images/Lower_Disk.png)   
